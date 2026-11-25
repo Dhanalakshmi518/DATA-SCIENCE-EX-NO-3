@@ -195,8 +195,7 @@ sm.qqplot(df["Moderate Negative Skew"],line='45')
 plt.show()
 ```
 <img width="593" height="442" alt="Screenshot 2026-11-24 160900" src="https://github.com/user-attachments/assets/669fa75e-a390-4aab-bf14-09d2d464bf08" />
-## Summary :
-### Experiment 3 – What I Learned
+# Summary :
 
 **1. Data Preprocessing**
 - Learned how to read the dataset using Pandas.
