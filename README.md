@@ -195,6 +195,33 @@ sm.qqplot(df["Moderate Negative Skew"],line='45')
 plt.show()
 ```
 <img width="593" height="442" alt="Screenshot 2026-11-24 160900" src="https://github.com/user-attachments/assets/669fa75e-a390-4aab-bf14-09d2d464bf08" />
+## Summary :
+### Experiment 3 – What I Learned
+
+**1. Data Preprocessing**
+- Learned how to read the dataset using Pandas.
+- Understood how to clean and prepare data for analysis.
+- Learned to handle categorical and numerical data.
+
+**2. Feature Encoding**
+- Learned Label Encoding and Ordinal Encoding.
+- Understood Binary Encoding and One-Hot Encoding.
+- Learned how to convert categorical values into numerical values.
+
+**3. Data Transformation**
+- Learned Log, Reciprocal, Square Root and Square Transformations.
+- Understood Box-Cox and Yeo-Johnson methods.
+- Learned how to transform data into a suitable format.
+
+**4. Skewness Analysis**
+- Learned about positive and negative skewness.
+- Understood how to reduce skewness using transformation methods.
+- Learned to visualize data distribution using Q-Q plots.
+
+**5. Data Saving**
+- Learned to apply transformations using Python libraries.
+- Understood how to check the transformed dataset.
+- Learned to save the processed data into a file.
 
 # RESULT:
        To read the given data and perform Feature Encoding and Transformation process and save the data to a file is successfully completed
